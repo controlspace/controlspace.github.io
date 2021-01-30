@@ -14,7 +14,7 @@ keywords: tech, computers, coding, algorithms, datastructures
 
 # URL
 url: https://controlspace.info
-root: /blog
+root: /
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -23,7 +23,7 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: blog
+public_dir: docs
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -105,6 +105,9 @@ feed:
 
 sitemap:
   path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
 
 lazyload:
   enable: true

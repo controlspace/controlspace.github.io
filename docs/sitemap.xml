@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://controlspace.info/tags/index.html</loc>
+    
+    <lastmod>2021-01-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2021/01/writing-csv-files-from-s3-using-opencsv/</loc>
+    
+    <lastmod>2021-01-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2021/01/reading-csv-files-from-s3-using-opencsv/</loc>
+    
+    <lastmod>2021-01-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2020/06/expiring-localstorage-objects/</loc>
+    
+    <lastmod>2020-06-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2020/05/a-definitive-guide-to-aws-application-integration/</loc>
+    
+    <lastmod>2020-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2018/04/creating-alexa-skill-with-java-aws-lambda/</loc>
+    
+    <lastmod>2018-04-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/07/top-view-of-binarytree-without-recursion/</loc>
+    
+    <lastmod>2016-07-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/07/nice-tool-for-algorithm-and-datastructure-visualisation/</loc>
+    
+    <lastmod>2016-07-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/07/right-view-of-binarytree-without-recursion/</loc>
+    
+    <lastmod>2016-07-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/06/collapsible-panel-in-oracle-jet/</loc>
+    
+    <lastmod>2016-06-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/05/non-recursive-breadth-first-traversal-binary-tree/</loc>
+    
+    <lastmod>2016-05-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/04/restricting-ojinputtext-for-numericals/</loc>
+    
+    <lastmod>2016-04-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/04/solving-jam-coins/</loc>
+    
+    <lastmod>2016-04-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/about/index.html</loc>
+    
+    <lastmod>2016-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/04/disable-dynadmin-auth-dev-env-oracle-commerce/</loc>
+    
+    <lastmod>2016-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/03/patch-utility-for-perforce/</loc>
+    
+    <lastmod>2016-03-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/2016/03/hello-world-for-oracle-commerce/</loc>
+    
+    <lastmod>2016-03-05</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://controlspace.info/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://controlspace.info/tags/java/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/algorithms/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/data-structures/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/problem/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/interview-question/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/binary-tree/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/atg/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/oraclecommerce/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/javafx/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/opensource/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/perforce/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/oraclejet/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/javascript/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/html/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/problems/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/codejam/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/puzzle/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/competition/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/solution/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/knockoutjs/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/jquery/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/css/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/information/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/configuration/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/hack/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/alexa/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/aws/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/dynamodb/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/ask/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/book/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/published/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/apress/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/amazon/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/sqs/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/sns/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/swf/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/step-functions/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/s3/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/opencsv/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/data/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/files/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://controlspace.info/tags/example/</loc>
+    <lastmod>2021-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+</urlset>

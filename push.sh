@@ -13,6 +13,8 @@ hexo generate
 #git stage -f *
 #git commit -m "$1"
 #git push origin main
+cp app.yaml docs/app.yaml
+cd docs
 gcloud config set project 'control-space'
 gcloud app deploy
 
