@@ -7,7 +7,7 @@
 # git commit -m $1
 # git push origin master
 
-cd /Volumes/work/controlspace/source/
+cd /Volumes/work/controlspace/
 hexo generate
 git stage -f *
 git commit -m "$1"
