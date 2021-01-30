@@ -1,0 +1,197 @@
+.admonition {
+  padding: 0 5px;
+  margin-bottom: 10px;
+  margin-left: 2.5em;
+  border: 1px solid transparent;
+  border-left: 4px solid;
+  border-radius: 1px;
+  text-align: left;
+}
+
+.admonition-title {
+  font-weight: bold;
+  text-align: left;
+}
+
+.admonition.note,
+.admonition.info,
+.admonition.tips {
+  color: #1d6fa5;
+  background-color: #a0cfee;
+  border-color: #3498db;
+}
+
+.admonition.warning,
+.admonition.warn,
+.admonition.important {
+  color: #a85913;
+  background-color: #f3c195;
+  border-color: #e67e22;
+}
+
+.admonition.danger,
+.admonition.critical {
+  color: #bf2718;
+  background-color: #f5b4ae;
+  border-color: #e74c3c;
+}
+
+.recents {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#header-outer {
+  height: initial;
+}
+
+#banner {
+  background: center #000;
+}
+
+.center-children {
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+}
+
+.binary-tree-arrow {
+  z-index: 0; 
+  cursor: inherit; 
+  stroke: rgb(29, 27, 25); 
+  stroke-width: 2px; 
+  stroke-opacity: 1; 
+  stroke-dasharray: none; 
+  stroke-linecap: round; 
+  stroke-linejoin: round;
+}
+
+.binary-tree-circle {
+  z-index: 1; 
+  cursor: inherit; 
+  stroke: rgb(29, 27, 25); 
+  stroke-width: 3px; 
+  stroke-opacity: 1; 
+  stroke-dasharray: none; 
+  stroke-linecap: round; 
+  stroke-linejoin: round; 
+  fill: rgb(204, 221, 255); 
+  fill-opacity: 1;
+}
+
+.binary-tree-circle+text {
+  z-index: 2; 
+  cursor: inherit; 
+  font-family: Arial; 
+  fill: black; 
+  font-size: 16.40px; 
+  font-weight: normal; 
+  font-style: normal; 
+  opacity: 1; 
+  text-anchor: middle;
+}
+
+.-highlight {
+  fill: rgb(100, 100, 255); 
+}
+
+.-highlight+text {
+  fill: white; 
+}
+
+.-blink {
+  -webkit-animation-name: binary-tree-highlight;
+  -webkit-animation-duration: 2s;
+  animation-name: binary-tree-highlight;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+}
+
+.-blink+text {
+  -webkit-animation-name: binary-tree-highlight-text;
+  -webkit-animation-duration: 2s;
+  animation-name: binary-tree-highlight-text;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+}
+
+.dull+text {
+  opacity: 0.25
+}
+
+.dull {
+  opacity: 0.25
+}
+
+.repeat {
+  animation-iteration-count: infinite;
+}
+
+.alternate {
+  animation-direction: alternate;
+}
+
+.fast {
+  animation-duration: .5s;
+}
+
+.delay1 {
+    animation-delay: 1s;
+}
+
+.delay2 {
+    animation-delay: 2s;
+}
+
+.delay3 {
+    animation-delay: 3s;
+}
+
+.delay4 {
+    animation-delay: 4s;
+}
+
+.delay5 {
+    animation-delay: 5s;
+}
+
+.delay6 {
+    animation-delay: 6s;
+}
+
+.delay7 {
+    animation-delay: 7s;
+}
+
+.delay8 {
+    animation-delay: 8s;
+}
+
+.delay9 {
+    animation-delay: 9s;
+}
+
+.delay10 {
+    animation-delay: 10s;
+}
+
+@-webkit-keyframes binary-tree-highlight {
+    from {fill: rgb(100, 100, 255);}
+    to {fill: rgb(204, 221, 255);}
+}
+
+@keyframes binary-tree-highlight {
+    from {fill: rgb(100, 100, 255);}
+    to {fill: rgb(204, 221, 255);}
+}
+
+@-webkit-keyframes binary-tree-highlight-text {
+    from {fill: white;}
+    to {fill: black;}
+}
+
+@keyframes binary-tree-highlight-text {
+    from {fill: white;}
+    to {fill: black;}
+}
