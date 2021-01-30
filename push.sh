@@ -10,9 +10,9 @@
 cd /Volumes/work/controlspace/
 hexo generate
 #grep -rl 'data-preview="true"' ./2* | xargs sed -i 's/data-preview="true"//g'
-#git stage -f *
-#git commit -m "$1"
-#git push origin main
+git stage .
+git commit -m "$1"
+git push origin main
 cp app.yaml docs/app.yaml
 cd docs
 gcloud config set project 'control-space'
