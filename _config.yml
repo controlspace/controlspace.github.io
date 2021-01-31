@@ -124,3 +124,7 @@ tag_cloud:
   outlineColor: '#000'
   maxSpeed: 0.01 # range from [0.01 ~ 1]
   pauseOnSelected: true # true means pause the cloud tag movement when highlight a tag
+
+# add caption for iamges
+image_caption:
+  enable: true #false to disable

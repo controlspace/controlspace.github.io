@@ -34,6 +34,6 @@ enabled=false
 
 Authentication can be enabled again by changing enabled=true in AuthenticationServlet.properties.
 
-{% admonition warning Watchout %}
+{% note warning %}
 It is a good idea to disable lazyAthentication and enable AuthenticationServlet component when testing some authentication related tests. Neither of the approaches have been tested with LDAP or other authentication mechanisms.
-{% endadmonition %}
+{% endnote %}
