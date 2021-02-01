@@ -8,6 +8,9 @@ description: This article discusses solutions for verifying if a binary tree is 
 
 Assuming that you are given a root node of a binary tree, you need to test if the tree is symmetric. This problem can be solved by both iterative and recursive approaches. Before we jump into learning how to test it. Let us look at some examples on to understand what is a symmetric or mirror binary tree.
 
+## Understand Symmetric trees
+Before we dive into programmatically solving the problem, we need to understand what are symmetric trees.
+
 ![Examples for mirror/symmetric binary trees](/assets/svgs/2021/01/symmetric-binary-tree-examples.svg)
 
 Each examples given above looks exactly same if we swap right and left nodes at every level. Take the second and third trees in the above picture, even if some nodes are missing. The nodes in the third level of the second binary tree is `[3, null, null, 3]` and when we reverse them the resulting list is going to be `[null, 3, 3, null]`, however as their parents are also going to be flipped, 1st & 2nd elements will become 3rd and 4th and viceversa so the end result will be `[3, null, 3, null]`.
@@ -22,4 +25,4 @@ There are numerous ways to solve this problem we will look at three different wa
 
 <!-- more -->
 
-### Still being written, come after few days
+

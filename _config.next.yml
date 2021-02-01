@@ -80,13 +80,13 @@ creative_commons:
 # Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
 # External url should start with http:// or https://
 menu:
-  home: / || fa fa-home
-  about: /about/ || fa fa-user
+  #home: / || fa fa-home
   tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
+  about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
-  #sitemap: /sitemap.xml || fa fa-sitemap
+  sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
 
 # Enable / Disable menu icons / item badges.
@@ -252,8 +252,11 @@ post_meta:
 # Post wordcount display settings
 # Dependencies: https://github.com/next-theme/hexo-word-counter
 symbols_count_time:
-  separated_meta: true
-  item_text_total: true
+  separated_meta: true  # false will display a line
+  item_text_post: true  # Display the attribute name, set to false, only display the icon and statistics, not display the text of the attribute
+  item_text_total: true # Whether the bottom footer displays the word count attribute text
+  awl: 4                # A setting for calculating the number of words, which has not been set
+  wpm: 275              # Number of words read in one minute
 
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
 tag_icon: true
@@ -666,6 +669,7 @@ google_analytics:
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
+  localhost_ignored: true
 
 # Baidu Analytics
 # See: https://tongji.baidu.com

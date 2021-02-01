@@ -67,6 +67,10 @@ handlers:
   static_files: \1/index.html
   upload: (.*)
 
+- url: /.+
+  static_files: views/404.html
+  upload: views/404.html
+
 skip_files:
 - ^(node_modules/.*)
 - ^(scaffolds/.*)

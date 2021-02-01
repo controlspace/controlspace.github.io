@@ -128,3 +128,11 @@ tag_cloud:
 # add caption for iamges
 image_caption:
   enable: true #false to disable
+
+symbols_count_time:
+  #Whether to display in the article
+  symbols: true
+  time: true
+  # Whether to display at the bottom of the page
+  total_symbols: true
+  total_time: true
