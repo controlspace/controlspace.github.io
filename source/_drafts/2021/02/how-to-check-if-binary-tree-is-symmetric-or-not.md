@@ -1,0 +1,29 @@
+---
+title: How to check if a Binary Tree is Symmetric
+date: 2021-02-02
+tags: ['java', 'algorithms', 'data-structures', 'problem', 'interview-question', 'binary-tree']
+author: Jyothi Prasad Buddha
+description: This article discusses solutions for verifying if a binary tree is symmetric or not
+---
+
+Assuming that you are given a root node of a binary tree, you need to test if the tree is symmetric. This problem can be solved by both iterative and recursive approaches. Before we jump into learning how to test it. Let us look at some examples on to understand what is a symmetric or mirror binary tree.
+
+## Understand Symmetric trees
+Before we dive into programmatically solving the problem, we need to understand what are symmetric trees. We can define a symmetric tree as any tree whose left subtree is a mirror reflection of the right subtree.
+
+
+![Examples for mirror/symmetric binary trees](/assets/svgs/2021/01/symmetric-tree-examples.svg)
+
+Each examples given above looks exactly same if we swap right and left nodes. Take the second and third trees in the above picture, even if some nodes are missing. The nodes in the third level of the second binary tree is `[3, null, null, 3]` and when we reverse them the resulting list is going to be `[null, 3, 3, null]`, however as their parents are also going to be flipped, 1st & 2nd elements will become 3rd and 4th and viceversa so the end result will be `[3, null, 3, null]`.
+
+![Examples that violate mirror/symmetric binary tree rules](/assets/svgs/2021/01/non-symmetric-binary-tree-examples.svg)
+
+In the above examples that violate the rule of symmetricity problem nodes are marked red. The second example however may be little confusing. The list of elements in lever order is `[3, null, 3, null]`. When their parents are flipped the nodes will become `[3, null, 3, null]` but as in the process of finding mirror tree we also flip the leaf nodes so in the end the result is going to be `[null, 3, null, 3]` which is no where same as the original. I gave how to tree looks when we see the same in a mirror.examples
+
+![Mirror tree no longer looks the same](/assets/svgs/2021/01/mirror-copies-not-matching.svg)
+
+There are numerous ways to solve this problem we will look at three different ways to solve this problem. I will provide the code samples using Java, but they should translate to any programming language with ease. <!-- more -->
+
+<!-- more -->
+
+
