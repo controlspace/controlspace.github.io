@@ -36,5 +36,5 @@ Jeff
 
 <!-- more -->
 
-Who am I to talk about people who achieved as much as Jeff Bezos did. Still I can't feel anything but great that I worked in a place where such a great minds and innovators work and how Jeff Bezos is the one that created that place. 
+Who am I to talk about people who achieved as much as Jeff Bezos did. Still, I can't feel anything but great that I worked in a place where such a great minds and innovators work and how Jeff Bezos is the one that created that place. I wish he creates more such successful companies that are as big as Amazon. Don't care if he gets richer as long as he creates proportional employment. My only sadness is that I didn't get to meet him even though I work for Amazon in Seattle.
 
