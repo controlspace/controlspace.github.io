@@ -67,7 +67,7 @@ handlers:
   static_files: \1/index.html
   upload: (.*)
 
-- url: /.+
+- url: /views/404.html
   static_files: views/404.html
   upload: views/404.html
 
