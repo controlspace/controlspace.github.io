@@ -8,7 +8,8 @@ description: This article shows you how to print right view of a binary tree, wh
 
 <img src="/assets/svgs/2016/right-view-of-binarytree.svg" alt="Right view of a binary tree"/>
 
-Imagine you have a binary tree and wants to get all the nodes that will be visible when seen from the right side of the tree. How do you print all such nodes? Final output for this tree should be 44, 51, 65, 26. In other words, the first nodes we touch upon if we draw horizontal lines from right side of the tree. Read on to find the solution.
+Imagine you have a binary tree and wants to get all the nodes that will be visible when seen from the right side of the tree. How do you print all such nodes? Final output for this tree should be 44, 51, 65, 26. In other words, the first nodes we touch upon if we draw horizontal lines from right side of the tree. A similar problem about printing right view is given in the previous post about {% post_link 2016/07/top-view-of-binarytree-without-recursion Top View of Binary Tree without Recursion %}
+Read on to find the solution.
 
  <!-- more -->
 

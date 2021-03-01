@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://controlspace.info/sitemap.xml
+Sitemap: https://controlspace.info/sitemap.xml
